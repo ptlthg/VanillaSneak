@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "vanillasneak",
+    "name": "Vanilla Sneak",
+    "description": "Toggle Sneak and Sprint in a legit manner.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Kaeso", "Ke5o"],
+    "credits": "The Forge and FML guys",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
