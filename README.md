@@ -10,6 +10,7 @@ To the best of my knowledge, this mod should not be considered a cheat. It uses 
 ## Keybinds
 
 The default keybinds are **left blank**. You can change them in the controls menu.
+![image](https://user-images.githubusercontent.com/24925519/221081124-4ede455a-15e8-482e-a027-a54bb8f67d02.png)
 
 ## Download
 
